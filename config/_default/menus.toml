@@ -10,5 +10,5 @@
 
 [[main]]
   name = "Documentation 2"
-  url = "docs1/"
+  url = "docs2/"
   weight = 20
