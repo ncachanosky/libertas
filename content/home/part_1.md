@@ -17,3 +17,8 @@ columns = "2"
 **LIBERTAS: Segunda Época** publica artículos de rigurosidad académica escritos de manera accesible a investigadores de distintas áreas y disciplinas. De este modo, esta publicación facilita la comunicación de análisis críticos de políticas económicas y públicas entre distintias disciplinas y expertos en diversas áreas de las ciencias sociales.
 
 **LIBERTAS: Segunda Época** se publica semestralmente y es de acceso abierto.
+
+---
+
+ISSN: 2469-2255 (impreso/print)  
+ISSN: 2524-9312 (online)
