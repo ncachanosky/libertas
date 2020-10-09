@@ -8,6 +8,9 @@ weight = 20  # Order that this section will appear.
 font_size = "M"
 columns = "1"
 
+title = ""
+subtitle = ""
+
 padding = ["20px", "0", "20px", "0"]
 +++
 
