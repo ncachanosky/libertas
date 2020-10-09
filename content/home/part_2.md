@@ -5,11 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "LIBERTAS"
-subtitle = "Segunda Época"
-
 font_size = "L"
-columns = "2"
+columns = "1"
 +++
 
 
