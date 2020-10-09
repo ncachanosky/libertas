@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
-title = "Demos"
+title = ""
 subtitle = ""
 
 [design]
@@ -50,16 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **personal demo** of Academic. Other demos available include:
+Las ediciones de esta revista son en homenaje al **Dr. Juan Carlos Cachanosky** quien en su momento coordinó y estaba en vías de ejecutar este proyecto. Las líneas que ahora consignamos son para honrar la memoria de quien dedicó su vida a estudiar y explicar el significado y las ventajas de la tradición de pensamiento liberal a sus muchos alumnos, lectores y colegas. Asimismo, quienes participamos en éstas ediciones académicas somos algunos de los que formamos parte del claustro de profesores de sus otros emprendimientos de enseñanza en vinculación con diversas universidades locales y extranjeras. Su testimonio y su hombría de bien son altamente reconocidos por todos los que tuvieron el privilegio de conocerlo.
 
-- [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
 
-**Over 100,000 [Amazing Websites](https://sourcethemes.com/academic/#expo) have Already Been Built with Academic**
-
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
-
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /alert %}}
