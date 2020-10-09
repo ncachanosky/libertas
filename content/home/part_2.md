@@ -47,6 +47,3 @@ Las ediciones de esta revista son en homenaje al **Dr. Juan Carlos Cachanosky** 
 
 ---
 
-ISSN: 2469-2255 (impreso/print)  
-ISSN: 2524-9312 (online)
-

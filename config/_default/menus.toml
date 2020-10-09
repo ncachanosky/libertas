@@ -4,11 +4,11 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Documentation 1"
-  url = "docs1/"
+  name = "Comité Editorial"
+  url = "Comite_Editorial/"
   weight = 10
 
 [[main]]
-  name = "Documentation 2"
-  url = "docs2/"
+  name = "Documentation 1"
+  url = "docs1/"
   weight = 20
