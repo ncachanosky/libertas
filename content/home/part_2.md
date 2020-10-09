@@ -7,6 +7,8 @@ weight = 20  # Order that this section will appear.
 
 font_size = "M"
 columns = "1"
+
+padding = ["20px", "0", "20px", "0"]
 +++
 
 
