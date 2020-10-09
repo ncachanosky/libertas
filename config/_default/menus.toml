@@ -9,6 +9,6 @@
   weight = 10
 
 [[main]]
-  name = "Documentation 1"
-  url = "docs1/"
+  name = "Artículos"
+  url = "articulos/"
   weight = 20

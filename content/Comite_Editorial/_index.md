@@ -3,18 +3,18 @@ title: Comité Editorial
 
 ---
 
-# Editor Honorario
+## Editor Honorario
 Cachanosky, Juan C.
 
-# Editor Ejecutivo
+## Editor Ejecutivo
 Giménez Bonet, Wenceslao
 
-# Editores
+## Editores
 Giméenez Bonet, Wenceslao  
 Cachanosky, Nicolás  
 Ravier, Adrián O.  
 
-# Comité Editorial
+## Comité Editorial
 Benegas Lynch (h), Alberto  
 Blanco Gonzáles, María  
 Cachanosky, Iván  
