@@ -1,18 +1,52 @@
 +++
-# A section created with the About widget.
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
+
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
-
-font_size = "M"
-columns = "1"
 
 title = ""
 subtitle = ""
 
-padding = ["20px", "0", "20px", "0"]
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
+
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+
+  # Background color.
+  color = "grey"
+  
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
+  
+  # Text color (true=light or false=dark).
+  text_color_light = true
+
+#[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
+  
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
 +++
 
-
 Las ediciones de esta revista son en homenaje al **Dr. Juan Carlos Cachanosky** quien en su momento coordinó y estaba en vías de ejecutar este proyecto. Las líneas que ahora consignamos son para honrar la memoria de quien dedicó su vida a estudiar y explicar el significado y las ventajas de la tradición de pensamiento liberal a sus muchos alumnos, lectores y colegas. Asimismo, quienes participamos en éstas ediciones académicas somos algunos de los que formamos parte del claustro de profesores de sus otros emprendimientos de enseñanza en vinculación con diversas universidades locales y extranjeras. Su testimonio y su hombría de bien son altamente reconocidos por todos los que tuvieron el privilegio de conocerlo.
+
+---
+
+ISSN: 2469-2255 (impreso/print)  
+ISSN: 2524-9312 (online)
+
