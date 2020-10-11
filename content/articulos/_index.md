@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: Artículos
 type: book  # Do not modify.
 ---
 
