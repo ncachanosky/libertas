@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: 2019
-weight: 2
+weight: 3
 icon: ""
 icon_pack: fas
 
@@ -11,8 +11,25 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-##  Volumen 4. Número 2.
+##  Volumen 4. Número 1.
+---
+[1] [A call for Out-of-Sample Testing in Macroeconomics][P1.1]
+*Robert Gelfond and Ryan H. Murphy* ([download excel file][P1.12])
 
+[2] [Un Mundo Mejor: Datos versus Relato][P1.2]
+*Alejandro O. Gómez*
+
+[3] [Radical Lottocracy, Ratinally Randomizing Decision-Making in Democracy][P1.3]
+*Esteban Gonzales Herrejón*
+
+[4] [En Busca de la Esencia del Liberalismo: Vargas Loosa y sus Mentores][P1.4]
+*Julio H. Cole*
+
+[5] [What is so Extreme About Mises's Apriorism: A Reply to Scott Scheall][P1.5]
+*Gabriel J. Zanotty and Nicolás Cachanosky*
+
+
+##  Volumen 4. Número 2.
 ---
 [1] [Translation Introduction to Juan Carlos Cachanosky's "Economic Science vs. Mathematical Economics"][P2.1]  
 *Nicolás Cachanosky*
@@ -37,6 +54,16 @@ type: book  # Do not modify.
 
 [8] [La Devaluación del Magisterio Pontificio][P2.8]
 *Gabriel J. Zanotti*
+
+
+
+<!-- HYPERLINKS: 4.1 -->
+[P1.1]: <(4.1 - 01 - Gelfond and Murphy - A Call for Out-of-Sample Testing in Macroeconomics.pdf)>
+[P1.12]: <(4.1 - 01 - Gelfond and Murphy - Excel file.xlsx)>
+[P1.2]: <(4.1 - 02 - Gomez - Un Mundo Mejor.pdf)>
+[P1.3]: <(4.1 - 03 - Gonzales Herrejon - Radical Lottocracy, Rationally Randomizing Decision-Making in Democracy.pdf)>
+[P1.4]: <(4.1 - 04 - Cole - En Busca de la Esencia del Liberalismo.pdf)>
+[P1.5]: <(4.1 - 05 - Zanotty and Cachanosky - What is so Extreme About Mises's Apriorism.pdf)>
 
 
 <!-- HYPERLINKS: 4.2 -->

@@ -13,19 +13,18 @@ type: book  # Do not modify.
 
 ##  Volumen 5. Número 1.
 ### Edición Especial: VIII Congreso Internacional La Escuela Austriaca en el Siglo XXI
-
 ---
 [1] [Roger Myerson's Mechanism Design and his Views on Hayek: A Reinterpretation of Moral Hazard and Adverse Selection][P1.1]  
 *Christopher Klein*
 
 [2] [Entrepreneurship Under Socialism: The Case of Former Soviet Economies][P1.2]  
-*Anca Elena Lungu and Gabriel Claudia Mursa*
+*Anca E. Lungu and Gabriel C. Mursa*
 
 [3] [The Mengerian Roots of Hayek's Conservative Liberalism][P1.3]  
 *Hannes H. Gissurarson*
 
 [4] [What is Wrong with Sustainable Development Goals?][P1.4]  
-*Horacio Miguel Arana*
+*Horacio M. Arana*
 
 [5] [The Intellectual Partnership of Hayek and Popper][P1.5]  
 *Rafe Champion*
