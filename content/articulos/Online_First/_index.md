@@ -35,4 +35,6 @@ type: book  # Do not modify.
 
 
 <!-- HYPERLINKS -->
-[P1]: <{{% staticref "files/Online_First/Gomez - Corporate Training (Su Legado).pdf" "newtab" %}}Download pdf{{% /staticref %}}>
+
+[P1]: <Gomez - Corporate Training (Su Legado).pdf>
+[P2]: <{{% staticref "files/Online_First/Gomez - Corporate Training (Su Legado).pdf" "newtab" %}}Download pdf{{% /staticref %}}>
