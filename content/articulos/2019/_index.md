@@ -1,12 +1,12 @@
 ---
 # Title, summary, and page position.
-linktitle: 2020
+linktitle: 2019
 weight: 2
 icon: ""
 icon_pack: fas
 
 # Page metadata.
-title: 2020
+title: 2019
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
