@@ -40,5 +40,5 @@ type: book  # Do not modify.
 [P1.3]: <(5.1 - 03 - Gissurarson - The Mengerian Roots of Hayek's Conservative Liberalism.pdf)>
 [P1.4]: <(5.1 - 04 - Arana - What is Wrong With Sustainable Development Goals.pdf)>
 [P1.5]: <(5.1 - 05 - Champion - The Intellectual Partnership of Hayek and Popper.pdf)>
-[P1.6]: <5.1 - 06 - Vivian - Resolving the St. Petersburg Paradox.pdf)>
+[P1.6]: <(5.1 - 06 - Vivian - Resolving the St. Petersburg Paradox.pdf)>
  
