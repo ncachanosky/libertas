@@ -11,8 +11,8 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## Volumen 5. Número 1.
-#  Edición Especial: VIII Congreso Internacional La Escuela Austriaca en el Siglo XXI
+##  Volumen 5. Número 1.
+### Edición Especial: VIII Congreso Internacional La Escuela Austriaca en el Siglo XXI
 
 [1] Roger Myerson's Mechanism Design and his Views on Hayek: A Reinterpretation of Moral Hazard and Adverse Selection  
 *Christopher Klein*
