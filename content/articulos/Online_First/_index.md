@@ -18,23 +18,26 @@ type: book  # Do not modify.
 *Alejandro O. Gómez*
 
 
-[2] Socialist Calculation Fails: By How Much and Due to What?  
+[2] [Socialist Calculation Fails: By How Much and Due to What?][P2]  
 *Ryan H. Murphy*
 
-[3] Alfred Marshall y la Génesis del Neoclacismo Inglés  
+[3] [Alfred Marshall y la Génesis del Neoclacismo Inglés][P3]  
 *Daniel Lahoud*
 
-[4] A Comment on Reparations for Slavery  
+[4] [A Comment on Reparations for Slavery][P4]  
 *Luvas Nouveau and Walter E. Block*
 
-[5] Uber y la Economía Colaborativa: Un Caso de Regulación Cautiva  
+[5] [Uber y la Economía Colaborativa: Un Caso de Regulación Cautiva][P5]  
 *Facundo Guadagno y Santiago Ferraro*
 
-[6] Capital: Three-Dimemsionally Speaking  
+[6] [Capital: Three-Dimemsionally Speaking][P6]  
 *Peter Lewin and Nicolas Cachanosky*
 
 
 <!-- HYPERLINKS -->
-
 [P1]: <(Gomez - Corporate Training (Su Legado).pdf)>
-[P2]: <{{% staticref "files/Online_First/Gomez - Corporate Training (Su Legado).pdf" "newtab" %}}Download pdf{{% /staticref %}}>
+[P2]: <(Murphy - Socialist Calculation Fails (By How Much and due to What).pdf)>
+[P3]: <(Lahoud - Alfred Marshall y la Genesis del Neoclasicismo Ingles.pdf)>
+[P4]: <(Nouveau and Block - A Comment on Reparations for Slavery.pdf)>
+[P5]: <(Guadagno and Ferraro - Uber y la Economia Colaborativa.pdf)>
+[P6]: <(Lewin and Cachanosky - Capital (Three-Dimensionally Speaking).pdf)>
