@@ -10,13 +10,13 @@ Cachanosky, Juan C.
 Giménez Bonet, Wenceslao
 
 ## Editores
-Giméenez Bonet, Wenceslao  
+Giménez Bonet, Wenceslao  
 Cachanosky, Nicolás  
 Ravier, Adrián O.  
 
 ## Comité Editorial
 Benegas Lynch (h), Alberto  
-Blanco Gonzáles, María  
+Blanco, María  
 Cachanosky, Iván  
 Fernández, Federico N.  
 Guido, Pablo  

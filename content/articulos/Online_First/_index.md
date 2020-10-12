@@ -12,8 +12,6 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## Artículos imprenta
-
 [1] [Corporate Training: Su Legado a 20 Años][P1]  
 *Alejandro O. Gómez*
 
