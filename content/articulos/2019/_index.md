@@ -49,10 +49,10 @@ type: book  # Do not modify.
 [6] [El Mercado como Proceso: 30 Años Después][P2.6]  
 *Ivo A. Sarjanovic*
 
-[7] [La Lógica de la Situación y Realismo en Popper][P2.7]
+[7] [La Lógica de la Situación y Realismo en Popper][P2.7]  
 *Agustina Borella*
 
-[8] [La Devaluación del Magisterio Pontificio][P2.8]
+[8] [La Devaluación del Magisterio Pontificio][P2.8]  
 *Gabriel J. Zanotti*
 
 
