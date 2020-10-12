@@ -1,17 +1,17 @@
 ---
 # Title, summary, and page position.
-linktitle: 2016
+linktitle: "2016: Vol. 1"
 weight: 6
 icon: ""
 icon_pack: fas
 
 # Page metadata.
-title: 2016
+title: "2016 | Volumen 1"
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-##  Volumen 2. Número 1.
+##  Volumen 1. Número 1.
 ---
 [1] [Carta de los Editores][P1.1]  
 *Wenceslao Giménez Bonet, Nicolás Cachanoskt, y Adrián O. Ravier*
@@ -43,7 +43,7 @@ type: book  # Do not modify.
 [10] [Intersubjetividad, Subjectivismo, Ciencias Sociales y Escuela Austriaca de Economía][P1.10]
 *Gabiel J. Zanotti*
 
-##  Volumen 2. Número 2.
+##  Volumen 1. Número 2.
 ### Edición Especial: VI Congreso Internacional la Escuela Austriaca en el Siglo XXI
 ---
 [1] [Carta de los Editores][P2.1]  
@@ -75,10 +75,7 @@ type: book  # Do not modify.
 
 
 
-
-
-
-<!-- HYPERLINKS: 3.1 -->
+<!-- HYPERLINKS: 1.1 -->
 [P1.1]: <(1.1 - 01 - Carta de los Editores.pdf)>
 [P1.2]: <(1.1 - 02 - Cachanosky - JCC.pdf)>
 [P1.3]: <(1.1 - 03 - Cachanosky and Cachanosky - Problemas Matematicos en la Teoria de Precios.pdf)>
@@ -91,7 +88,7 @@ type: book  # Do not modify.
 [P1.10]: <1.1 - 10 - Zanotti - Intersubjetividad, Subjetivismo, Ciencias Sociales y EA.pdf)>
 
 
-<!-- HYPERLINKS: 3.2 -->
+<!-- HYPERLINKS: 1.2 -->
 [P2.1]: <(1.2 - 01 - Carta de los Editores.pdf)>
 [P2.2]: <(1.2 - 02 - Notturno - Popper and Hayek.pdf)>
 [P2.3]: <(1.2 - 03 - Zanotti - Que es es lo que Caracterize y Unifica a la EA.pdf)>
