@@ -13,19 +13,19 @@ type: book  # Do not modify.
 
 ##  Volumen 4. Número 1.
 ---
-[1] [A call for Out-of-Sample Testing in Macroeconomics][P1.1]
+[1] [A call for Out-of-Sample Testing in Macroeconomics][P1.1]  
 *Robert Gelfond and Ryan H. Murphy* ([download excel file][P1.12])
 
-[2] [Un Mundo Mejor: Datos versus Relato][P1.2]
+[2] [Un Mundo Mejor: Datos versus Relato][P1.2]  
 *Alejandro O. Gómez*
 
-[3] [Radical Lottocracy, Ratinally Randomizing Decision-Making in Democracy][P1.3]
+[3] [Radical Lottocracy, Ratinally Randomizing Decision-Making in Democracy][P1.3]  
 *Esteban Gonzales Herrejón*
 
-[4] [En Busca de la Esencia del Liberalismo: Vargas Loosa y sus Mentores][P1.4]
+[4] [En Busca de la Esencia del Liberalismo: Vargas Loosa y sus Mentores][P1.4]  
 *Julio H. Cole*
 
-[5] [What is so Extreme About Mises's Apriorism: A Reply to Scott Scheall][P1.5]
+[5] [What is so Extreme About Mises's Apriorism: A Reply to Scott Scheall][P1.5]  
 *Gabriel J. Zanotty and Nicolás Cachanosky*
 
 
