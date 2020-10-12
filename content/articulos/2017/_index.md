@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: 2017
+linktitle: "2017 | Volumen 2"
 weight: 5
 icon: ""
 icon_pack: fas

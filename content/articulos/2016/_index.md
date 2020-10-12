@@ -1,12 +1,12 @@
 ---
 # Title, summary, and page position.
-linktitle: "2016: Vol. 1"
+linktitle: "2016 | Volumen 1"
 weight: 6
 icon: ""
 icon_pack: fas
 
 # Page metadata.
-title: "2016 | Volumen 1"
+title: "2016"
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
