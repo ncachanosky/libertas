@@ -27,3 +27,4 @@ Landoni, Sebastián S.
 Lazzari, Gustavo  
 Zanotti, Gabriel  
 
+{{% staticref "files/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
