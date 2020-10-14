@@ -25,4 +25,4 @@ Hasperué, Gustavo
 Krause, Martín  
 Landoni, Sebastián S.  
 Lazzari, Gustavo  
-Zanotti, Gabriel  
+Zanotti, Gabriel J.  
