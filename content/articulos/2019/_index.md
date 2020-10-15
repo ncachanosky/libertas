@@ -19,7 +19,7 @@ type: book  # Do not modify.
 [2] [Un Mundo Mejor: Datos versus Relato][P1.2]  
 *Alejandro O. Gómez*
 
-[3] [Radical Lottocracy, Ratinally Randomizing Decision-Making in Democracy][P1.3]  
+[3] [Radical Lottocracy, Rationally Randomizing Decision-Making in Democracy][P1.3]  
 *Esteban Gonzales Herrejón*
 
 [4] [En Busca de la Esencia del Liberalismo: Vargas Loosa y sus Mentores][P1.4]  
