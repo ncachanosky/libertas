@@ -2,12 +2,9 @@
 # Title, summary, and page position.
 linktitle: "2016 | Volumen 1"
 weight: 6
-icon: ""
-icon_pack: fas
 
 # Page metadata.
 title: "2016"
-date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
@@ -76,7 +73,7 @@ type: book  # Do not modify.
 
 
 <!-- HYPERLINKS: 1.1 -->
-[P1.1]: <(1.1 - 01 - Carta de los Editores.pdf)>
+[P1.1]: <(\1.1 - 01 - Carta de los Editores.pdf)>
 [P1.2]: <(1.1 - 02 - Cachanosky - JCC.pdf)>
 [P1.3]: <(1.1 - 03 - Cachanosky and Cachanosky - Problemas Matematicos en la Teoria de Precios.pdf)>
 [P1.4]: <(1.1 - 04 - Benegas Lynch (h) - Es Posible un Gobierno Limitado.pdf)>

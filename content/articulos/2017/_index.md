@@ -2,12 +2,9 @@
 # Title, summary, and page position.
 linktitle: "2017 | Volumen 2"
 weight: 5
-icon: ""
-icon_pack: fas
 
 # Page metadata.
 title: 2017
-date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
