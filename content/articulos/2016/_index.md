@@ -64,14 +64,14 @@ type: book  # Do not modify.
 [7] [Las Matemáticas y la Tradición Autriaca: A Propósito del Artícuo de Juan Carlos y Nicolás Cachanosky][P2.7]  
 *Rafael E. Beltramino*
 
-[8] [La Matemática y la Tradición Austriaca: Respuesta a Rafael Beltramino][P2.8]
+[8] [La Matemática y la Tradición Austriaca: Respuesta a Rafael Beltramino][P2.8]  
 *Nicolás Cachanosky*
 
 [9] [Nota Sobre la Herramienta Matemática en Economía... Y más allá][P2.9]  
 *María Blanco*
 
 
-{{% staticref "files/2016/1.1 - 01 - Carta de los Editores.pdf" "newtab" %}}Carta de los Editores{{% /staticref %}}
+{{% contentref "/2016/1.1 - 01 - Carta de los Editores.pdf" "newtab" %}}Carta de los Editores{{% /contentref %}}
 
 
 <!-- HYPERLINKS: 1.1 -->
