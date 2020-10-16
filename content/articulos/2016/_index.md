@@ -43,7 +43,7 @@ type: book  # Do not modify.
 ##  Volumen 1. Número 2.
 ### Edición Especial: VI Congreso Internacional la Escuela Austriaca en el Siglo XXI
 ---
-[1] [Carta de los Editores][P2.1]  
+[1] {{% staticref "/2016/1.1 - 01 - Carta de los Editores.pdf" "newtab" %}}Carta de los Editores{{% /staticref %}}  
 *Wenceslao Giménez Bonet, Nicolás Cachanosky, y Adrián O. Ravier*
 
 [2] [Popper and Hayek: On Democracy and Open Society][P2.2]  
@@ -71,7 +71,7 @@ type: book  # Do not modify.
 *María Blanco*
 
 
-{{% contentref "/2016/1.1 - 01 - Carta de los Editores.pdf" "newtab" %}}Carta de los Editores{{% /contentref %}}
+
 
 
 <!-- HYPERLINKS: 1.1 -->
