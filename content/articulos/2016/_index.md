@@ -71,9 +71,11 @@ type: book  # Do not modify.
 *María Blanco*
 
 
+{{% staticref "files/2016/1.1 - 01 - Carta de los Editores.pdf" "newtab" %}}Carta de los Editores{{% /staticref %}}
+
 
 <!-- HYPERLINKS: 1.1 -->
-[P1.1]: <(1.1-01-Carta de los Editores.pdf)>
+[P1.1]: <(1.1 - 01 - Carta de los Editores.pdf)>
 [P1.2]: <(1.1 - 02 - Cachanosky - JCC.pdf)>
 [P1.3]: <(1.1 - 03 - Cachanosky and Cachanosky - Problemas Matematicos en la Teoria de Precios.pdf)>
 [P1.4]: <(1.1 - 04 - Benegas Lynch (h) - Es Posible un Gobierno Limitado.pdf)>
