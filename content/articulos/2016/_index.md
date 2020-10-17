@@ -11,7 +11,7 @@ type: book  # Do not modify.
 ##  Volumen 1. Número 1.
 ---
 [1] {{% staticref "files/2016/1.1 - 01 - Carta de los Editores.pdf" "newtab" %}}Carta de los Editores{{% /staticref %}}  
-*Wenceslao Giménez Bonet, Nicolás Cachanoskt, y Adrián O. Ravier*
+*Wenceslao Giménez Bonet, Nicolás Cachanosky, y Adrián O. Ravier*
 
 [2] {{% staticref "files/2016/1.1 - 02 - Cachanosky - JCC.pdf" "newtab" %}}Juan C. Cachanosky: Un Educador Para la Libertad{{% /staticref %}}    
 *Roberto H. Cachanosky*
