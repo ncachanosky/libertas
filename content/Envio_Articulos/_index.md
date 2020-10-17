@@ -17,7 +17,7 @@ Todos los artículos serán evaluados por los editores, puediendo el mismo ser e
 Los artículos deben ser originales e inéditos.
 
 ### Formato
-Los archivos deben ser enviados en formato Microsoft Word. EL journal no acepta foramto .pdf o LaTeX.
+Los archivos deben ser enviados en formato Microsoft Word. El journal no acepta foramto .pdf o LaTeX.
 
 ---
 
