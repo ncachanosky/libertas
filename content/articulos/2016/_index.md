@@ -37,7 +37,7 @@ type: book  # Do not modify.
 [9] {{% staticref "files/2016/1.1 - 09 - Landoni - Elinor Ostrom y el Gobierno de los Recursos de Uso Comun.pdf" "newtab" %}}Elinor Ostrom y el Gobierno de los Recursos de Uso Común: Entre una Primera Aproximación y el Problema de la Naturaleza Humana{{% /staticref %}}  
 *Juan S. Landoni*
 
-[10] {{% staticref "files/2016/1.1 - 10 - Zanotti - Intersubjetividad, Subjetivismo, Ciencias Sociales y EA.pdf" "newtab" %}Intersubjetividad, Subjectivismo, Ciencias Sociales y Escuela Austriaca de Economía{{% /staticref %}}  
+[10] {{% staticref "files/2016/1.1 - 10 - Zanotti - Intersubjetividad, Subjetivismo, Ciencias Sociales y EA.pdf" "newtab" %}}Intersubjetividad, Subjectivismo, Ciencias Sociales y Escuela Austriaca de Economía{{% /staticref %}}  
 *Gabiel J. Zanotti*
 
 ##  Volumen 1. Número 2.
