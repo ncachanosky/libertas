@@ -25,16 +25,16 @@ type: book  # Do not modify.
 [5] {{% staticref "files/2016/1.1 - 05 - Blanco - Aportaciones de la Psicologia Evolucionista.pdf" "newtab" %}}Aportaciones de la Psicología Evolucionista: Una Interpretación de Adam Smith{{% /staticref %}}  
 *María Blanco*
 
-[6] {{% staticref "files/2016/1.1 - 06 - Cachanosky y Ravier - Una Propuesta de Reforma Monetaria.pdf" "newtab" %}Una Propuesta de Reforma Monetaria para Argentina: Dolarización Flexible con Banca Libre{{% /staticref %}}  
+[6] {{% staticref "files/2016/1.1 - 06 - Cachanosky y Ravier - Una Propuesta de Reforma Monetaria.pdf" "newtab" %}}Una Propuesta de Reforma Monetaria para Argentina: Dolarización Flexible con Banca Libre{{% /staticref %}}  
 *Nicolás Cachanosky y Adrián O. Ravier*
 
-[7] {{% staticref "files/2016/1.1 - 07 - Hasperue - La Propuesta Monetaria de Hayek.pdf" "newtab" %}La Propuesta Monetaria de Hayek{{% /staticref %}}  
+[7] {{% staticref "files/2016/1.1 - 07 - Hasperue - La Propuesta Monetaria de Hayek.pdf" "newtab" %}}La Propuesta Monetaria de Hayek{{% /staticref %}}  
 *Gustavo Hasperué*
 
-[8] {{% staticref "files/2016/1.1 - 08 - Krause - El Papel de las Ideas y el Cambio en la Sociedad.pdf" "newtab" %}El Papel de las Ideas y el Cambio en la Sociedad{{% /staticref %}}  
+[8] {{% staticref "files/2016/1.1 - 08 - Krause - El Papel de las Ideas y el Cambio en la Sociedad.pdf" "newtab" %}}El Papel de las Ideas y el Cambio en la Sociedad{{% /staticref %}}  
 *Martín Krause*
 
-[9] {{% staticref "files/2016/1.1 - 09 - Landoni - Elinor Ostrom y el Gobierno de los Recursos de Uso Comun.pdf" "newtab" %}Elinor Ostrom y el Gobierno de los Recursos de Uso Común: Entre una Primera Aproximación y el Problema de la Naturaleza Humana{{% /staticref %}}  
+[9] {{% staticref "files/2016/1.1 - 09 - Landoni - Elinor Ostrom y el Gobierno de los Recursos de Uso Comun.pdf" "newtab" %}}Elinor Ostrom y el Gobierno de los Recursos de Uso Común: Entre una Primera Aproximación y el Problema de la Naturaleza Humana{{% /staticref %}}  
 *Juan S. Landoni*
 
 [10] {{% staticref "files/2016/1.1 - 10 - Zanotti - Intersubjetividad, Subjetivismo, Ciencias Sociales y EA.pdf" "newtab" %}Intersubjetividad, Subjectivismo, Ciencias Sociales y Escuela Austriaca de Economía{{% /staticref %}}  
