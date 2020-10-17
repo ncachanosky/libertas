@@ -12,29 +12,20 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-[1] [Corporate Training: Su Legado a 20 Años][P1]  
+[1] {{% staticref "files/2020/Gomez - Corporate Training (Su Legado).pdf" "newtab" %}}Corporate Training: Su Legado a 20 Años{{% /staticref %}}  
 *Alejandro O. Gómez*
 
-[2] [Socialist Calculation Fails: By How Much and Due to What?][P2]  
+[2] {{% staticref "files/2020/Murphy - Socialist Calculation Fails (By How Much and due to What).pdf" "newtab" %}}Socialist Calculation Fails: By How Much and Due to What?{{% /staticref %}}  
 *Ryan H. Murphy*
 
-[3] [Alfred Marshall y la Génesis del Neoclacismo Inglés][P3]  
+[3] {{% staticref "files/2020/Lahoud - Alfred Marshall y la Genesis del Neoclasicismo Ingles.pdf" "newtab" %}}Alfred Marshall y la Génesis del Neoclacismo Inglés{{% /staticref %}}  
 *Daniel Lahoud*
 
-[4] [A Comment on Reparations for Slavery][P4]  
+[4] {{% staticref "files/2020/Nouveau and Block - A Comment on Reparations for Slavery.pdf" "newtab" %}} Comment on Reparations for Slavery{{% /staticref %}}  
 *Luvas Nouveau and Walter E. Block*
 
-[5] [Uber y la Economía Colaborativa: Un Caso de Regulación Cautiva][P5]  
+[5] {{% staticref "files/2020/Guadagno and Ferraro - Uber y la Economia Colaborativa.pdf" "newtab" %}} Uber y la Economía Colaborativa: Un Caso de Regulación Cautiva{{% /staticref %}}  
 *Facundo Guadagno y Santiago Ferraro*
 
-[6] [Capital: Three-Dimemsionally Speaking][P6]  
+[6] {{% staticref "files/2020/Lewin and Cachanosky - Capital (Three-Dimensionally Speaking).pdf" "newtab" %}} Capital: Three-Dimemsionally Speaking{{% /staticref %}}  
 *Peter Lewin and Nicolas Cachanosky*
-
-
-<!-- HYPERLINKS -->
-[P1]: <(Gomez - Corporate Training (Su Legado).pdf)>
-[P2]: <(Murphy - Socialist Calculation Fails (By How Much and due to What).pdf)>
-[P3]: <(Lahoud - Alfred Marshall y la Genesis del Neoclasicismo Ingles.pdf)>
-[P4]: <(Nouveau and Block - A Comment on Reparations for Slavery.pdf)>
-[P5]: <(Guadagno and Ferraro - Uber y la Economia Colaborativa.pdf)>
-[P6]: <(Lewin and Cachanosky - Capital (Three-Dimensionally Speaking).pdf)>
