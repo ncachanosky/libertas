@@ -46,7 +46,7 @@ type: book  # Do not modify.
 [1] {{% staticref "files/2016/1.2 - 01 - Carta de los Editores.pdf" "newtab" %}}Carta de los Editores{{% /staticref %}}  
 *Wenceslao Giménez Bonet, Nicolás Cachanosky, y Adrián O. Ravier*
 
-[2] {{% staticref "files/2016/1.2 - 03 - Zanotti - Que es es lo que Caracterize y Unifica a la EA.pdf" "newtab" %}}Popper and Hayek: On Democracy and Open Society{{% /staticref %}}  
+[2] {{% staticref "files/2016/1.2 - 02 - Notturno - Popper and Hayek.pdf" "newtab" %}}Popper and Hayek: On Democracy and Open Society{{% /staticref %}}  
 *Mark A. Notturno*
 
 [3] {{% staticref "files/2016/1.2 - 03 - Zanotti - Que es es lo que Caracterize y Unifica a la EA.pdf" "newtab" %}}¿Qué es los que Caracteriza y Unifica a la Escuela Austriaca de Economia?{{% /staticref %}}  
