@@ -10,7 +10,7 @@ type: book  # Do not modify.
 
 ##  Volumen 1. Número 1.
 ---
-[1] [Carta de los Editores][P1.1]  
+[1] {{% staticref "files/2016/1.1 - 01 - Carta de los Editores.pdf" "newtab" %}}Carta de los Editores{{% /staticref %}}  
 *Wenceslao Giménez Bonet, Nicolás Cachanoskt, y Adrián O. Ravier*
 
 [2] [Juan C. Cachanosky: Un Educador Para la Libertad][P1.2]  
@@ -76,7 +76,7 @@ type: book  # Do not modify.
 
 <!-- HYPERLINKS: 1.1 -->
 [P1.1]: <(1.1 - 01 - Carta de los Editores.pdf)>
-[P1.2]: <(1.1 - 02 - Cachanosky - JCC.pdf)>
+[P1.2]: <("1.1 - 02 - Cachanosky - JCC.pdf")>
 [P1.3]: <(1.1 - 03 - Cachanosky and Cachanosky - Problemas Matematicos en la Teoria de Precios.pdf)>
 [P1.4]: <(1.1 - 04 - Benegas Lynch (h) - Es Posible un Gobierno Limitado.pdf)>
 [P1.5]: <(1.1 - 05 - Blanco - Aportaciones de la Psicologia Evolucionista.pdf)>
