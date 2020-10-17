@@ -7,7 +7,7 @@ title: Envío de artículos
 
 Los artículos deben ser enviados a uno de los tres editores.
 
-1. Dr. Wenceslao Gímenez Bonet | w.gbonet@cmt-group.org
+1. Dr. Wenceslao Giménez Bonet | w.gbonet@cmt-group.org
 2. Dr. Nicolás Cachanosky | ncachano@msudenver.edu
 3. Dr. Adrián O. Ravier | adrian.ravier@eseade.edu.ar
 
@@ -32,7 +32,7 @@ Los archivos deben ser enviados en formato Microsoft Word. El journal no acepta 
 
 Papers must be sent to any of the three editors.
 
-1. Dr. Wenceslao Gímenez Bonet | w.gbonet@cmt-group.org
+1. Dr. Wenceslao Giménez Bonet | w.gbonet@cmt-group.org
 2. Dr. Nicolás Cachanosky | ncachano@msudenver.edu
 3. Dr. Adrián O. Ravier | adrian.ravier@eseade.edu.ar
 
