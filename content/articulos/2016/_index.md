@@ -22,7 +22,7 @@ type: book  # Do not modify.
 [4] ¿Es Posible el Gobierno Limitado?  
 *Benegas Lynch (h)* | A pedido del autor este artículo se encuentra disponible sólo en versión impresa
 
-[5] {{% staticref "files/2016/1.1 - 05 - Blanco - Aportaciones de la Psicologia Evolucionista.pdf" "newtab" %}Aportaciones de la Psicología Evolucionista: Una Interpretación de Adam Smith{{% /staticref %}}  
+[5] {{% staticref "files/2016/1.1 - 05 - Blanco - Aportaciones de la Psicologia Evolucionista.pdf" "newtab" %}}Aportaciones de la Psicología Evolucionista: Una Interpretación de Adam Smith{{% /staticref %}}  
 *María Blanco*
 
 [6] {{% staticref "files/2016/1.1 - 06 - Cachanosky y Ravier - Una Propuesta de Reforma Monetaria.pdf" "newtab" %}Una Propuesta de Reforma Monetaria para Argentina: Dolarización Flexible con Banca Libre{{% /staticref %}}  
