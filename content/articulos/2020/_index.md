@@ -28,3 +28,5 @@ type: book  # Do not modify.
 
 [6] {{% staticref "files/2020/5.1 - 06 - Vivian - Resolving the St. Petersburg Paradox.pdf" "newtab" %}}Resolving the St. Petersburg Paradox: A Triumph for Austrian Economics{{% /staticref %}}  
 *Robert W. Vivian*
+
+[Test](https://journallibertas.com/files/2020/5.1%20-%2001%20-%20Klein%20-%20Roger%20Meyerson%27s%20Mechanism%20Design%20and%20his%20Views%20on%20Hayek.pdf)
