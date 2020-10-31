@@ -4,6 +4,7 @@ type: book  # Do not modify.
 ---
 
 ## 2020
+**Volumen 5, Número 2**
 **Volumen 5, Número 1** | Edición Especial: VIII Congreso Internacional la Escuela Austriaca en el Siglo XXI
 
 ## 2019
