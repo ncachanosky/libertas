@@ -32,18 +32,18 @@ type: book  # Do not modify.
 
 ##  Volumen 5. Número 2.
 ---
-[1] {{% staticref "files\2020\5.2 - 01 - Gomez - Corporate Training (Su Legado).pdf" "newtab" %}}Corporate Training: Su Legado a 20 Años{{% /staticref %}}  
+[1] {{% staticref "files/2020/5.2 - 01 - Gomez - Corporate Training (Su Legado).pdf" "newtab" %}}Corporate Training: Su Legado a 20 Años{{% /staticref %}}  
 *Alejandro O. Gómez*
 
-[2] {{% staticref "files\2020\5.2 - 02 - Murphy - Socialist Calculation Fails (By How Much and due to What).pdf" "newtab" %}}Socialist Calculation Fails: By How Much and Due to What?{{% /staticref %}}  
+[2] {{% staticref "files/2020/5.2 - 02 - Murphy - Socialist Calculation Fails (By How Much and due to What).pdf" "newtab" %}}Socialist Calculation Fails: By How Much and Due to What?{{% /staticref %}}  
 *Ryan H. Murphy*
 
-[3] {{% staticref "files\2020\5.2 - 03 - Lahoud - Alfred Marshall y la Genesis del Neoclasicismo Ingles.pdf" "newtab" %}}Alfred Marshall y la Génesis del Neoclacismo Inglés{{% /staticref %}}  
+[3] {{% staticref "files/2020/5.2 - 03 - Lahoud - Alfred Marshall y la Genesis del Neoclasicismo Ingles.pdf" "newtab" %}}Alfred Marshall y la Génesis del Neoclacismo Inglés{{% /staticref %}}  
 *Daniel Lahoud*
 
-[4] {{% staticref "files\2020\5.2 - 04 - Nouveau and Block - A Comment on Reparations for Slavery.pdf" "newtab" %}}A Comment on Reparations for Slavery{{% /staticref %}}  
+[4] {{% staticref "files/2020/5.2 - 04 - Nouveau and Block - A Comment on Reparations for Slavery.pdf" "newtab" %}}A Comment on Reparations for Slavery{{% /staticref %}}  
 *Lucas Nouveau and Walter E. Block*
 
-[5] {{% staticref "files\2020\5.2 - 05 - JCC - The Austrian School of Economics.pdf" "newtab" %}}The Austrian School of Economics{{% /staticref %}}  
+[5] {{% staticref "files/2020/5.2 - 05 - JCC - The Austrian School of Economics.pdf" "newtab" %}}The Austrian School of Economics{{% /staticref %}}  
 *Juan C. Cachanosky*
 
