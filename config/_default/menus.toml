@@ -22,3 +22,8 @@
   name = "Envío de Artículos"
   url = "Envio_Articulos/"
   weight = 40
+
+[[main]]
+  name = "Call-for-Papers"
+  url = "Call-for-Papers/"
+  weight = 50
