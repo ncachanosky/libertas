@@ -7,7 +7,7 @@ title: Call-for-Papers
 
 ### Theme
 
-The [editors](Comite_Editorial/) invite submissions for a **special issue** dedicated to the initial reactions to the Covid-19 outbreak. The Covid-19 pandemic is one of the most significant events of the 21st century. Government reactions to Covid-19 will have lasting effects in societies around the world.
+The [editors]({{< ref "/Comite_Editorial/_index.md" >}}) invite submissions for a **special issue** dedicated to the initial reactions to the Covid-19 outbreak. The Covid-19 pandemic is one of the most significant events of the 21st century. Government reactions to Covid-19 will have lasting effects in societies around the world.
 
 The editors are interested in papers that study economics, political, social, and cultural reactions to the pandemic. A non-exclusive list of topics for this special issue include:
 
@@ -35,4 +35,4 @@ The deadline for submission is **June 30, 2020**.
 
 ### Submission
 
-Any questions and submission should be sent by email to any of the three [editors][A post]({{< ref "/Envio_articulos/_index.md" >}}) of the journal.
+Any questions and submission should be sent by email to any of the three [editors]({{< ref "/Envio_articulos/_index.md" >}}) of the journal.
