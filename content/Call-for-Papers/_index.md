@@ -35,4 +35,4 @@ The deadline for submission is **June 30, 2020**.
 
 ### Submission
 
-Any questions and submission should be sent by email to any of the three [editors](Envio_Articulos/) of the journal.
+Any questions and submission should be sent by email to any of the three [editors][A post]({{< ref "/Envio_articulos/_index.md" >}}) of the journal.
