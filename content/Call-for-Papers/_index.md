@@ -31,7 +31,7 @@ Papers should follow LIBERTAS's interdisciplinary style. Papers should be schola
 
 ### Deadline
 
-The deadline for submission is **June 30, 2020**.
+The submission deadline is **June 30, 2020**.
 
 ### Submission
 
