@@ -23,10 +23,10 @@ The editors are interested in papers that study economics, political, social, an
 **Extension**  
 There is no strict limit on the length of the paper. However, the editors recommend an extension between 6,000 and 9,000 words.
 
-**Language**
+**Language**  
 Papers can be written in either Spanish or English.
 
-**Style**
+**Style**  
 Papers should follow LIBERTAS's interdisciplinary style. Papers should be scholarly rigorous yet be accessible for an interdisciplinary audience and non-experts in the subject.
 
 ### Deadline
